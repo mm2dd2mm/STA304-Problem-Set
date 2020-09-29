@@ -1,0 +1,8 @@
+---
+title: STA304 page2
+author: ~
+date: '2020-09-29'
+slug: sta304-page2
+categories: []
+tags: []
+---
